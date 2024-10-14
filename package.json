@@ -39,7 +39,7 @@
     ]
   },
   "proxy": "http://localhost:8080",
-  "homepage": "http://erikjulios96.github.io/file_manager",
+  "homepage": "https://erikjulios96.github.io/file_manager",
   "devDependencies": {
     "gh-pages": "^6.2.0"
   }
